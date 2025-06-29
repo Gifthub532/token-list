@@ -1,0 +1,19 @@
+{
+  "name": "DiamondPepe",
+  "symbol": "DPEPE",
+  "description": "DiamondPepe is the rarest meme lord of Solana. Born to pump, made to shine.",
+  "image": "logo.png",
+  "extensions": {
+    "website": "https://pump.fun",
+    "twitter": "https://twitter.com/diamondpepe_sol"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "E877mB9SdpJjxm6sKFu9TAXHUnchsY5VgRxxEBqApump",
+        "share": 100
+      }
+    ]
+  }
+}
